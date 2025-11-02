@@ -1,0 +1,48 @@
+{
+  "name": "D06 – Reading",
+  "questions": [
+    { "number": 1, "type": "Inference" },
+    { "number": 2, "type": "Detail" },
+    { "number": 3, "type": "Big Picture" },
+    { "number": 4, "type": "Purpose" },
+    { "number": 5, "type": "Purpose" },
+    { "number": 6, "type": "Inference" },
+    { "number": 7, "type": "Detail" },
+    { "number": 8, "type": "Detail" },
+    { "number": 9, "type": "Detail" },
+    { "number": 10, "type": "Detail" },
+
+    { "number": 11, "type": "Big Picture" },
+    { "number": 12, "type": "Inference" },
+    { "number": 13, "type": "Inference" },
+    { "number": 14, "type": "Detail" },
+    { "number": 15, "type": "Purpose" },
+    { "number": 16, "type": "Detail" },
+    { "number": 17, "type": "Inference" },
+    { "number": 18, "type": "Detail" },
+    { "number": 19, "type": "Detail" },
+    { "number": 20, "type": "Inference" },
+
+    { "number": 21, "type": "Vocab in Context" },
+    { "number": 22, "type": "Purpose" },
+    { "number": 23, "type": "Inference" },
+    { "number": 24, "type": "Inference" },
+    { "number": 25, "type": "Inference" },
+    { "number": 26, "type": "Vocab in Context" },
+    { "number": 27, "type": "Inference" },
+    { "number": 28, "type": "Big Picture" },
+    { "number": 29, "type": "Inference" },
+    { "number": 30, "type": "Detail" },
+
+    { "number": 31, "type": "Inference" },
+    { "number": 32, "type": "Inference" },
+    { "number": 33, "type": "Vocab in Context" },
+    { "number": 34, "type": "Inference" },
+    { "number": 35, "type": "Detail" },
+    { "number": 36, "type": "Purpose" },
+    { "number": 37, "type": "Detail" },
+    { "number": 38, "type": "Detail" },
+    { "number": 39, "type": "Purpose" },
+    { "number": 40, "type": "Detail" }
+  ]
+}

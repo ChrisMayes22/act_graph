@@ -1,0 +1,44 @@
+{
+  "name": "73E – Reading",
+  "questions": [
+    { "number": 1, "type": "Inference" },
+    { "number": 2, "type": "Inference" },
+    { "number": 3, "type": "Detail" },
+    { "number": 4, "type": "Inference" },
+    { "number": 5, "type": "Detail" },
+    { "number": 6, "type": "Inference" },
+    { "number": 7, "type": "Detail" },
+    { "number": 8, "type": "Detail" },
+    { "number": 9, "type": "Detail" },
+
+    { "number": 10, "type": "Purpose" },
+    { "number": 11, "type": "Big Picture" },
+    { "number": 12, "type": "Big Picture" },
+    { "number": 13, "type": "Detail" },
+    { "number": 14, "type": "Purpose" },
+    { "number": 15, "type": "Detail" },
+    { "number": 16, "type": "Detail" },
+    { "number": 17, "type": "Detail" },
+    { "number": 18, "type": "Detail" },
+
+    { "number": 19, "type": "Purpose" },
+    { "number": 20, "type": "Inference" },
+    { "number": 21, "type": "Detail" },
+    { "number": 22, "type": "Purpose" },
+    { "number": 23, "type": "Inference" },
+    { "number": 24, "type": "Purpose" },
+    { "number": 25, "type": "Detail" },
+    { "number": 26, "type": "Big Picture" },
+    { "number": 27, "type": "Inference" },
+
+    { "number": 28, "type": "Detail" },
+    { "number": 29, "type": "Purpose" },
+    { "number": 30, "type": "Purpose" },
+    { "number": 31, "type": "Detail" },
+    { "number": 32, "type": "Detail" },
+    { "number": 33, "type": "Detail" },
+    { "number": 34, "type": "Inference" },
+    { "number": 35, "type": "Detail" },
+    { "number": 36, "type": "Detail" }
+  ]
+}
