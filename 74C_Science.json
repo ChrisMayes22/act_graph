@@ -1,0 +1,50 @@
+{
+  "name": "74C – Science",
+  "questions": [
+    { "number": 1,  "type": "New Information" },
+    { "number": 2,  "type": "Detail" },
+    { "number": 3,  "type": "Similarity/Difference" },
+    { "number": 4,  "type": "Detail" },
+    { "number": 5,  "type": "Similarity/Difference" },
+    { "number": 6,  "type": "New Information" },
+    { "number": 7,  "type": "Trend" },
+
+    { "number": 8,  "type": "Trend" },
+    { "number": 9,  "type": "Detail" },
+    { "number": 10, "type": "Detail" },
+    { "number": 11, "type": "Trend" },
+    { "number": 12, "type": "New Information" },
+    { "number": 13, "type": "Detail" },
+
+    { "number": 14, "type": "Detail" },
+    { "number": 15, "type": "Detail" },
+    { "number": 16, "type": "Detail" },
+    { "number": 17, "type": "Detail" },
+    { "number": 18, "type": "New Information" },
+    { "number": 19, "type": "Detail" },
+    { "number": 20, "type": "Trend" },
+
+    { "number": 21, "type": "Outside Information" },
+    { "number": 22, "type": "Detail" },
+    { "number": 23, "type": "Method" },
+    { "number": 24, "type": "Detail" },
+    { "number": 25, "type": "Detail" },
+    { "number": 26, "type": "Detail" },
+    { "number": 27, "type": "New Information" },
+
+    { "number": 28, "type": "Detail" },
+    { "number": 29, "type": "Detail" },
+    { "number": 30, "type": "Trend" },
+    { "number": 31, "type": "Detail" },
+    { "number": 32, "type": "Trend" },
+    { "number": 33, "type": "New Information" },
+    { "number": 34, "type": "New Information" },
+
+    { "number": 35, "type": "Trend" },
+    { "number": 36, "type": "Outside Information" },
+    { "number": 37, "type": "Detail" },
+    { "number": 38, "type": "Detail" },
+    { "number": 39, "type": "Trend" },
+    { "number": 40, "type": "Trend" }
+  ]
+}
